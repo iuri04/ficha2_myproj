@@ -11,6 +11,10 @@ Fiz uma alteração dentro do ficheiro.
 
 !!!Alteraçoes efetuadas no branch NovaFeature!!
 
-Alteração no branch NOVAFEATUR
 
-Alteração no branch NOVAFEATUREE
+Alteração no branch NOVAFEATURE
+
+Alteração no branch NOVAFEATURE
+
+Alteração no branch MASTER
+
