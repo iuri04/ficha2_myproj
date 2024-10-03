@@ -9,3 +9,5 @@ Fiz uma alteração dentro do ficheiro.
 
 
 !!!Alteraçoes efetuadas no branch NovaFeature!!
+
+Alteração no branch MASTER
